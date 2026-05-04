@@ -95,8 +95,8 @@ Klicke hierzu einfach die einzelnen Programmpunkte auf.
 
     <details class="agenda-item">
       <summary>
-        <span class="agenda-time">12:30 – 13:30</span>
-        <span class="agenda-title">Lunch break</span>
+        <span class="agenda-time">Ca. 11:00 - 12:00</span>
+        <span class="agenda-title">Bekanntgabe der Ergebnisse, Laudatio und Snacks</span>
       </summary>
 
       <div class="agenda-details">
@@ -105,22 +105,14 @@ Klicke hierzu einfach die einzelnen Programmpunkte auf.
           dietary options and the meeting point.
         </p>
 
-        <div class="map-container">
-          <iframe
-            src="https://www.google.com/maps/embed?pb=PASTE_YOUR_GOOGLE_MAPS_EMBED_LINK_HERE"
-            title="Map for Lunch break"
-            loading="lazy"
-            allowfullscreen
-            referrerpolicy="no-referrer-when-downgrade">
-          </iframe>
-        </div>
+        
       </div>
     </details>
 
     <details class="agenda-item">
       <summary>
-        <span class="agenda-time">17:30</span>
-        <span class="agenda-title">Evening event on site</span>
+        <span class="agenda-time">Ab ??:00</span>
+        <span class="agenda-title">Promotionsfeier im ???</span>
       </summary>
 
       <div class="agenda-details">
@@ -130,13 +122,7 @@ Klicke hierzu einfach die einzelnen Programmpunkte auf.
         </p>
 
         <div class="map-container">
-          <iframe
-            src="https://www.google.com/maps/embed?pb=PASTE_YOUR_GOOGLE_MAPS_EMBED_LINK_HERE"
-            title="Map for Evening event"
-            loading="lazy"
-            allowfullscreen
-            referrerpolicy="no-referrer-when-downgrade">
-          </iframe>
+          <!-- Hier iframe einfügen -->
         </div>
       </div>
     </details>
