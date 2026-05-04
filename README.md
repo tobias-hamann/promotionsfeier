@@ -46,7 +46,7 @@ Klicke hierzu einfach die einzelnen Programmpunkte auf.
 
       <div class="agenda-details">
         <p>
-          Wenn du von anfang an dabei sein möchtest, finde dich rechtzeitig zum Vortrag im Produktionscluster in Raum 368 im dritten Stock ein.
+          Wenn du von Anfang an dabei sein möchtest, finde dich rechtzeitig zum Vortrag im Produktionscluster in Raum 368 im dritten Stock ein.
         </p>
 
         <div class="map-container">
@@ -57,38 +57,28 @@ Klicke hierzu einfach die einzelnen Programmpunkte auf.
 
     <details class="agenda-item">
       <summary>
-        <span class="agenda-time">09:40 – 10:00</span>
-        <span class="agenda-title">Preliminary remarks</span>
+        <span class="agenda-time">09:00 – 10:00</span>
+        <span class="agenda-title">Promotionsvortrag: Dialog der KI-Agenten</span>
       </summary>
 
       <div class="agenda-details">
         <p>
-          Introductory remarks on the context of the meeting, its objectives,
-          and the expected outcomes.
+          Der Promotionsvortrag, der sich um ein anderes Thema als meine Dissertation dreht. Das Thema lautet: "Dialog der KI-Agenten - Wie Large Language Modelle gemeinsam Entscheidungen treffen". Der Vortrag findet in Raum 368 statt.
+          <strong>Wichtig: Applaus am Ende des Vortrags ist erlaubt, sollte aber nicht in Jubel, Stampfen oder Pfeiffen ausarten!</strong>
         </p>
 
-        <div class="map-container">
-          <iframe
-            src="https://www.google.com/maps/embed?pb=PASTE_YOUR_GOOGLE_MAPS_EMBED_LINK_HERE"
-            title="Map for Preliminary remarks"
-            loading="lazy"
-            allowfullscreen
-            referrerpolicy="no-referrer-when-downgrade">
-          </iframe>
-        </div>
       </div>
     </details>
 
     <details class="agenda-item">
       <summary>
-        <span class="agenda-time">10:00 – 10:10</span>
-        <span class="agenda-title">Overview of the agenda</span>
+        <span class="agenda-time">10:00 – ca. 11:00</span>
+        <span class="agenda-title">Rigorosum</span>
       </summary>
 
       <div class="agenda-details">
         <p>
-          Short overview of the agenda, including session structure, breaks,
-          locations and relevant organisational information.
+          Dieser Teil der 
         </p>
 
         <div class="map-container">
