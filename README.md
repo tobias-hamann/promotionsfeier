@@ -16,6 +16,47 @@ Wenn du an Tobias' Promotionsfeier, seinem Vortrag oder beidem Teilnehmen möcht
 
 ## Kurzinformationen
 
+<section class="agenda-summary" aria-labelledby="agenda-summary-title">
+  <h3 id="agenda-summary-title">Kurzüberblick</h3>
+
+  <table class="agenda-summary-table">
+    <thead>
+      <tr>
+        <th>Zeit</th>
+        <th>Inhalt</th>
+        <th>Ort</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>08:30 – 09:00</td>
+        <td>Ankommen</td>
+        <td>Produktionscluster, Raum 368</td>
+      </tr>
+      <tr>
+        <td>09:00 – 10:00</td>
+        <td>Promotionsvortrag: Dialog der KI-Agenten</td>
+        <td>Produktionscluster, Raum 368</td>
+      </tr>
+      <tr>
+        <td>10:00 – ca. 11:00</td>
+        <td>Rigorosum / Führung für Gäste</td>
+        <td>Prüfung nicht öffentlich; Führung durch WZL-Räumlichkeiten</td>
+      </tr>
+      <tr>
+        <td>ca. 11:00 – 12:00</td>
+        <td>Bekanntgabe der Ergebnisse, Laudatio und Snacks</td>
+        <td>Produktionscluster, Raum 368</td>
+      </tr>
+      <tr>
+        <td>ab ??:00</td>
+        <td>Promotionsfeier</td>
+        <td>???</td>
+      </tr>
+    </tbody>
+  </table>
+</section>
+
 
 
 ## Registrierung
@@ -78,18 +119,9 @@ Klicke hierzu einfach die einzelnen Programmpunkte auf.
 
       <div class="agenda-details">
         <p>
-          Dieser Teil der 
+          Dieser Teil der Prüfung ist nicht öffentlich. Wenn du nicht Teil des WZL-Teams bist, bekommst du eine Führung durch unsere Räumlichkeiten und bei Bedarf Kaffee aus unserer Siebträgermaschine.
         </p>
 
-        <div class="map-container">
-          <iframe
-            src="https://www.google.com/maps/embed?pb=PASTE_YOUR_GOOGLE_MAPS_EMBED_LINK_HERE"
-            title="Map for Agenda overview"
-            loading="lazy"
-            allowfullscreen
-            referrerpolicy="no-referrer-when-downgrade">
-          </iframe>
-        </div>
       </div>
     </details>
 
@@ -101,8 +133,7 @@ Klicke hierzu einfach die einzelnen Programmpunkte auf.
 
       <div class="agenda-details">
         <p>
-          Lunch break on site. This section may include information on the lunch location,
-          dietary options and the meeting point.
+          Nachdem das Rigorosum abgeschlossen ist, finden wir uns alle wieder in Raum 368 ein. Dort gibt es dann die Verkündung des Ergebnisses. Anschließend werden Reden gehalten und Snacks konsumiert. Danach endet dieser Veranstaltungsteil. Wer Lust hat, kann  später zur Promotionsfeier kommen.
         </p>
 
         
