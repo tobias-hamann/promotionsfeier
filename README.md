@@ -73,7 +73,6 @@ Du möchtest wissen, was dich erwartet? Dann gibt es den ganzen Tag für dich hi
 Klicke hierzu einfach die einzelnen Programmpunkte auf.
 
 <section class="detailed-agenda" id="agenda">
-  <h2>Detailed Agenda</h2>
 
   <h3>Freitag, der 25.09.2026</h3>
 
@@ -167,7 +166,6 @@ Klicke hierzu einfach die einzelnen Programmpunkte auf.
 Der Abend soll länger werden? Hier findest du Betten, in die du dich morgens um 4 Uhr fallen lassen kannst:
 
 <section id="accommodations">
-  <h2>Accommodations</h2>
 
   <article class="hotel-card">
     <h3>B&B HOTEL Aachen-City</h3>
