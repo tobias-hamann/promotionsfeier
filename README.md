@@ -8,10 +8,10 @@
 Wenn du an Tobias' Promotionsfeier, seinem Vortrag oder beidem Teilnehmen möchtest, ist das die richtige Seite für dich!
 
 <nav class="section-nav">
-  <a href="#kurzinformation">Kurzinformation</a>
-  <a href="#registrierung">Registrierung</a>
-  <a href="#agenda">Agenda</a>
-  <a href="#hotels-in-aachen">Hotels in Aachen</a>
+  <a href="#kurzinformation">Kurzinformation</a> <br>
+  <a href="#registrierung">Registrierung</a> <br>
+  <a href="#agenda">Agenda</a> <br>
+  <a href="#hotels-in-aachen">Hotels in Aachen</a> <br>
 </nav>
 
 ## Kurzinformationen
@@ -29,33 +29,28 @@ Du kannst es kaum Abwarten? Melde dich hier an!
 
 Du möchtest wissen, was dich erwartet? Dann gibt es den ganzen Tag für dich hier zusammengefasst inklusive Beschreibungen, wo du hin musst!
 
+Klicke hierzu einfach die einzelnen Programmpunkte auf.
+
 <section class="detailed-agenda" id="agenda">
   <h2>Detailed Agenda</h2>
 
-  <h3>Tuesday, March 11, 2025</h3>
+  <h3>Freitag, der 25.09.2026</h3>
 
   <div class="agenda-list">
 
     <details class="agenda-item">
       <summary>
-        <span class="agenda-time">09:30 – 09:40</span>
-        <span class="agenda-title">Welcome</span>
+        <span class="agenda-time">08:30 – 09:00</span>
+        <span class="agenda-title">Ankommen in PCL 368</span>
       </summary>
 
       <div class="agenda-details">
         <p>
-          Welcome and short introduction to the event, including organisational notes
-          and an overview of the day.
+          Wenn du von anfang an dabei sein möchtest, finde dich rechtzeitig zum Vortrag im Produktionscluster in Raum 368 im dritten Stock ein.
         </p>
 
         <div class="map-container">
-          <iframe
-            src="https://www.google.com/maps/embed?pb=PASTE_YOUR_GOOGLE_MAPS_EMBED_LINK_HERE"
-            title="Map for Welcome session"
-            loading="lazy"
-            allowfullscreen
-            referrerpolicy="no-referrer-when-downgrade">
-          </iframe>
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d711.9331273571318!2d6.04623773471756!3d50.78181940740741!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c099f2c113f3d5%3A0xdf52cd7c30b446e1!2sCluster%20Produktionstechnik!5e1!3m2!1sde!2sde!4v1777900552824!5m2!1sde!2sde" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
       </div>
     </details>
