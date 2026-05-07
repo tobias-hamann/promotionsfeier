@@ -7,12 +7,12 @@
 
 Wenn du an Tobias' Promotionsfeier, seinem Vortrag oder beidem Teilnehmen möchtest, ist das die richtige Seite für dich!
 
-<nav class="section-nav">
-  <a href="#kurzinformation">Kurzinformation</a> <br>
-  <a href="#registrierung">Registrierung</a> <br>
-  <a href="#agenda">Agenda</a> <br>
-  <a href="#hotels-in-aachen">Hotels in Aachen</a> <br>
-</nav>
+Auf dieser Website findest du
+- [Kurzinformationen zum Event](#kurzinformation)
+- [Die Registrierung](#registrierung)
+- [Die komplette Agenda](#agenda)
+- [Hotels in Aachen](#hotels-in-aachen)
+
 
 ## Kurzinformationen
 
@@ -47,6 +47,11 @@ Wenn du an Tobias' Promotionsfeier, seinem Vortrag oder beidem Teilnehmen möcht
         <td>ca. 11:00 – 12:00</td>
         <td>Bekanntgabe der Ergebnisse, Laudatio und Snacks</td>
         <td>Produktionscluster, Raum 368</td>
+      </tr>
+      <tr>
+        <td>12:00 - ??:00</td>
+        <td>Freizeit, um sich die Stadt anzusehen oder sich für den Abend schick zu machen</td>
+        <td>???</td>
       </tr>
       <tr>
         <td>ab ??:00</td>
@@ -169,11 +174,10 @@ Der Abend soll länger werden? Hier findest du Betten, in die du dich morgens um
 
   <article class="hotel-card">
     <h3>B&B HOTEL Aachen-City</h3>
-    <p><strong>Address:</strong> Grosskölnstraße 57-63, 52062 Aachen</p>
+    <p><strong>Adresse:</strong> Grosskölnstraße 57-63, 52062 Aachen</p>
     <p><a href="#">Link to website</a></p>
     <p>
-      Connection to event location: Bus line 1/41, direction Melaten,
-      exit Rabentalweg.
+      Anbindung an den Veranstaltungsort: Busline 1/41, Richtung Melaten, Ausstieg Rabentalweg.
     </p>
   </article>
 </section>
