@@ -170,14 +170,4 @@ Klicke hierzu einfach die einzelnen Programmpunkte auf.
 
 Der Abend soll länger werden? Hier findest du Betten, in die du dich morgens um 4 Uhr fallen lassen kannst:
 
-<section id="accommodations">
-
-  <article class="hotel-card">
-    <h3>B&B HOTEL Aachen-City</h3>
-    <p><strong>Adresse:</strong> Grosskölnstraße 57-63, 52062 Aachen</p>
-    <p><a href="#">Link to website</a></p>
-    <p>
-      Anbindung an den Veranstaltungsort: Busline 1/41, Richtung Melaten, Ausstieg Rabentalweg.
-    </p>
-  </article>
-</section>
+*Wird ergänzt sobald die Location für das Abendevent steht.*
