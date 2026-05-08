@@ -1,8 +1,3 @@
-# promotionsfeier
-
-
-
-
 # Tobias' Promotionsfeier
 
 Wenn du an Tobias' Promotionsfeier, seinem Vortrag oder beidem Teilnehmen möchtest, ist das die richtige Seite für dich!
@@ -11,6 +6,7 @@ Auf dieser Website findest du
 - [Kurzinformationen zum Event](#kurzinformation)
 - [Die Registrierung](#registrierung)
 - [Die komplette Agenda](#agenda)
+- [Parkplätze an den Veranstaltungsorten](#parken)
 - [Hotels in Aachen](#hotels-in-aachen)
 
 
@@ -64,6 +60,7 @@ Auf dieser Website findest du
 
 
 
+
 ## Registrierung
 
 Du kannst es kaum Abwarten? Melde dich hier an!
@@ -110,6 +107,8 @@ Klicke hierzu einfach die einzelnen Programmpunkte auf.
         <p>
           Der Promotionsvortrag, der sich um ein anderes Thema als meine Dissertation dreht. Das Thema lautet: "Dialog der KI-Agenten - Wie Large Language Modelle gemeinsam Entscheidungen treffen". Der Vortrag findet in Raum 368 statt.
           <strong>Wichtig: Applaus am Ende des Vortrags ist erlaubt, sollte aber nicht in Jubel, Stampfen oder Pfeiffen ausarten!</strong>
+          <br>
+          Dresscode: Casual chic oder darüber
         </p>
 
       </div>
@@ -124,6 +123,8 @@ Klicke hierzu einfach die einzelnen Programmpunkte auf.
       <div class="agenda-details">
         <p>
           Dieser Teil der Prüfung ist nicht öffentlich. Wenn du nicht Teil des WZL-Teams bist, bekommst du eine Führung durch unsere Räumlichkeiten und bei Bedarf Kaffee aus unserer Siebträgermaschine.
+          <br>
+          Dresscode: Casual chic oder darüber
         </p>
 
       </div>
@@ -138,6 +139,8 @@ Klicke hierzu einfach die einzelnen Programmpunkte auf.
       <div class="agenda-details">
         <p>
           Nachdem das Rigorosum abgeschlossen ist, finden wir uns alle wieder in Raum 368 ein. Dort gibt es dann die Verkündung des Ergebnisses. Anschließend werden Reden gehalten und Snacks konsumiert. Danach endet dieser Veranstaltungsteil. Wer Lust hat, kann  später zur Promotionsfeier kommen.
+          <br>
+          Dresscode: Casual chic oder darüber
         </p>
 
         
@@ -154,6 +157,8 @@ Klicke hierzu einfach die einzelnen Programmpunkte auf.
         <p>
           Evening event at the venue. This section may include information on the meeting
           point, schedule, dinner arrangements or social activities.
+          <br>
+          Dresscode: Wie du dich am wohlsten fühlst
         </p>
 
         <div class="map-container">
@@ -164,6 +169,22 @@ Klicke hierzu einfach die einzelnen Programmpunkte auf.
 
   </div>
 </section>
+
+## Parken
+Du kommmst mit dem Auto? Dann kannst du an folgenden Orten parken:
+
+### Morgens bei Vortrag, Prüfung und Laudatio
+
+- Es gibt öffentliche Parkplätze direkt am Campus-Boulevard, 52074 Aachen
+- Falls dort nichts mehr frei ist, gibt es in der Wilfried-König-Straße, 52074 Aachen weitere Parkplätze
+- Wenn du mutig bist und nicht weit laufen möchtest, gibt es das Parkhaus direkt am Produktionscluster (Eigentlich RWTH-intern, Parkplätze weiter oben aber immer frei; Fahrstuhl vorhanden). Anfahrt über Steinbachstraße, 52074 Aachen:
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d846.6197512003088!2d6.047365710700912!3d50.7827135321164!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sde!2sde!4v1778228627819!5m2!1sde!2sde" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+
+### Abends bei der Feier
+
+*Wird ergänzt sobald die Location für das Abendevent steht.*
 
 
 ## Hotels in Aachen
