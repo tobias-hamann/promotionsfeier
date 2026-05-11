@@ -1,5 +1,3 @@
-# Tobias' Promotionsfeier
-
 Wenn du an Tobias' Promotionsfeier, seinem Vortrag oder beidem Teilnehmen möchtest, ist das die richtige Seite für dich!
 
 Auf dieser Website findest du
