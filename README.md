@@ -92,7 +92,7 @@ Klicke hierzu einfach die einzelnen Programmpunkte auf.
         </p>
 
         <div class="map-container">
-          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d211.65940746751536!2d6.0464787871676124!3d50.781726101432824!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c0982555555555%3A0x90ce9e292c5c8e35!2sArbeitskreise%20des%20WZL!5e1!3m2!1sde!2sde!4v1778492422385!5m2!1sde!2sde" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d503.40530749943554!2d6.047269020567512!3d50.782509968681225!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c099001374187f%3A0x70054db52052198d!2sEingangshalle%20des%20Clusters%20Produktionstechnik!5e1!3m2!1sde!2sde!4v1779087029259!5m2!1sde!2sde" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
       </div>
     </details>
