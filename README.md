@@ -1,12 +1,12 @@
-# Tobias' Promotiosfeier
+# Tobias’ Promotionsfeier
 
-Wenn du an Tobias' Promotionsfeier, seinem Vortrag oder beidem Teilnehmen möchtest, ist das die richtige Seite für dich!
+Wenn du an Tobias’ Promotionsfeier, seinem Vortrag oder beidem teilnehmen möchtest, ist das die richtige Seite für dich!
 
 Auf dieser Website findest du
 - [Kurzinformationen zum Event](#kurzinformationen)
 - [Die Registrierung](#registrierung)
-- [Agenda Morgens](#agenda-morgens)
-- [Agenda Abends](#agenda-abends)
+- [Agenda am Morgen](#agenda-am-morgen)
+- [Agenda am Abend](#agenda-am-abend)
 - [Hotels in Aachen](#hotels-in-aachen)
 
 
@@ -27,7 +27,7 @@ Auf dieser Website findest du
     </thead>
     <tbody>
       <tr>
-        <td rowspan="4"><a href="#agenda-morgens">Morgens</a></td>
+        <td rowspan="4"><a href="#agenda-am-morgen">Morgens</a></td>
         <td>08:30 – 09:00</td>
         <td>Ankommen</td>
         <td rowspan="4">Raum 368, Gebäudeteil 3A, Campus-Boulevard 30, 52074 Aachen</td>
@@ -46,12 +46,12 @@ Auf dieser Website findest du
       </tr>
       <tr>
         <td>Dazwischen</td>
-        <td>12:00 - 19:00</td>
+        <td>12:00 – 19:00</td>
         <td>Freizeit, um sich die Stadt anzusehen oder sich für den Abend schick zu machen</td>
         <td>Jeder für sich, wo man mag</td>
       </tr>
       <tr>
-        <td><a href="#agenda-abends">Abends</a></td>
+        <td><a href="#agenda-am-abend">Abends</a></td>
         <td>ab 19:00</td>
         <td>Promotionsfeier</td>
         <td>Chico Mendes, Pontstraße 74-76, 52062 Aachen</td>
@@ -67,21 +67,20 @@ Auf dieser Website findest du
 
 ## Registrierung
 
-Du kannst es kaum Abwarten? Melde dich hier an!
+Du kannst es kaum abwarten? Dann melde dich hier an!
 
 <iframe data-tally-src="https://tally.so/embed/ODjKAR?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1" loading="lazy" width="100%" height="444" frameborder="0" marginheight="0" marginwidth="0" title="Anmeldung Promotionsfeier Tobias"></iframe>
 <script>var d=document,w="https://tally.so/widgets/embed.js",v=function(){"undefined"!=typeof Tally?Tally.loadEmbeds():d.querySelectorAll("iframe[data-tally-src]:not([src])").forEach((function(e){e.src=e.dataset.tallySrc}))};if("undefined"!=typeof Tally)v();else if(d.querySelector('script[src="'+w+'"]')==null){var s=d.createElement("script");s.src=w,s.onload=v,s.onerror=v,d.body.appendChild(s);}</script>
 
 ## Agenda
-Du möchtest genau wissen, was dich erwartet? Dann gibt es den ganzen Tag für dich hier zusammengefasst inklusive Beschreibungen, wo du hin musst!
+Du möchtest genau wissen, was dich erwartet? Hier findest du den gesamten Tagesablauf inklusive Beschreibungen der Orte.
 
-<a id="agenda-morgens"></a>
+<a id="agenda-am-morgen"></a>
 
-## Agenda Morgens
+## Agenda am Morgen
 
 **Ab 08:30** <br>
 **Raum 368, Gebäudeteil 3A, Campus-Boulevard 30, 52074 Aachen** <br>
-**Dresscode: Casual chic oder darüber** <br>
 
 <div class="map-container">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d503.40530749943554!2d6.047269020567512!3d50.782509968681225!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c099001374187f%3A0x70054db52052198d!2sEingangshalle%20des%20Clusters%20Produktionstechnik!5e1!3m2!1sde!2sde!4v1779087029259!5m2!1sde!2sde" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -94,12 +93,12 @@ Du möchtest genau wissen, was dich erwartet? Dann gibt es den ganzen Tag für d
 
 Wenn du von Anfang an dabei sein möchtest, finde dich rechtzeitig zum Vortrag im Produktionscluster, Gebäudeteil 3A, Raum 368 im dritten Stock ein.
 <br>
-<strong>Wichtig: Wenn du zu spät bist und der Vortrag schon begonnen hat, solltest du den Raum nicht mehr betreten, sondern warten, bis der Vortrag vorbei ist.</strong>
+<strong>Wichtig: Solltest du zu spät kommen und der Vortrag schon begonnen haben, betritt den Raum bitte nicht mehr, sondern warte, bis der Vortrag vorbei ist.</strong>
 
 ##### <span style="font-size:1.1em;">09:00 – 10:00: Promotionsvortrag: Dialog der KI-Agenten</span>
 
-Der Promotionsvortrag, der sich um ein anderes Thema als meine Dissertation dreht. Das Thema lautet: "Dialog der KI-Agenten - Wie Large Language Modelle gemeinsam Entscheidungen treffen". Der Vortrag findet im Produktionscluster, Gebäudeteil 3A, Raum 368 statt.
-<strong>Wichtig: Applaus am Ende des Vortrags ist erlaubt, sollte aber nicht in Jubel, Stampfen oder Pfeiffen ausarten.</strong>
+Die Besonderheit bei der Fakultät 4 „Maschinenbau“ der RWTH Aachen: Der Promotionsvortrag dreht sich um ein anderes Thema als meine Dissertation. Das Thema lautet: „Dialog der KI-Agenten - Wie Large Language Modelle gemeinsam Entscheidungen treffen“. Der Vortrag findet im Produktionscluster, Gebäudeteil 3A, Raum 368 statt.
+<strong>Wichtig: Applaus am Ende des Vortrags ist erlaubt, sollte aber nicht in Jubel, Stampfen oder Pfeifen ausarten. Das ist eine Prüfungssituation.</strong>
 
 ##### <span style="font-size:1.1em;">10:00 – ca. 11:00: Prüfung für Tobias / Führung für Gäste</span>
 
@@ -107,17 +106,17 @@ Dieser Teil der Prüfung ist nicht öffentlich. Wenn du nicht Teil des WZL-Teams
 
 ##### <span style="font-size:1.1em;">ca. 11:00 – 12:00: Bekanntgabe der Ergebnisse, Laudatio und Snacks</span>
 
-Nachdem die Prüfung abgeschlossen ist, finden wir uns alle wieder in Raum 368 ein. Dort gibt es dann die Verkündung des Ergebnisses. Anschließend werden Reden gehalten und Snacks konsumiert. Danach endet dieser Veranstaltungsteil. Wer Lust hat, kann später zur Promotionsfeier kommen.
+Nachdem die Prüfung abgeschlossen ist, finden wir uns alle wieder in Raum 368 ein. Dort wird das Ergebnis verkündet. Anschließend werden Reden gehalten und Snacks bereitgestellt. Danach endet dieser Veranstaltungsteil. Wer Lust hat, kann später zur Promotionsfeier kommen.
 
-Das Catering bei der Laudatio  wird angeliefert durch:
+Das Catering für die Laudatio kommt von:
 
 <img src="asset/images/werden_logo.png" alt="Werden Logo" style="max-height:120px; width:auto;">
 
 <a id="morgens-parken"></a>
 
-#### Morgens Parken
+#### Parken am Morgen
 
-Du kommmst mit dem Auto? Dann kannst du an folgenden Orten parken:
+Du kommst mit dem Auto? Dann kannst du an folgenden Orten parken:
 
 - Es gibt öffentliche Parkplätze direkt am Campus-Boulevard, 52074 Aachen
 - Falls dort nichts mehr frei ist, gibt es in der Wilfried-König-Straße, 52074 Aachen weitere Parkplätze
@@ -125,14 +124,26 @@ Du kommmst mit dem Auto? Dann kannst du an folgenden Orten parken:
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d846.6197512003088!2d6.047365710700912!3d50.7827135321164!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sde!2sde!4v1778228627819!5m2!1sde!2sde" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-## Agenda Abends
+#### Morgens mit dem Bus kommen
 
-<a id="agenda-abends"></a>
+Du möchtest nicht mit dem Auto kommen, sondern bevorzugst den ÖPNV?
+Folgende Buslinien bringen dich morgens sicher ans Ziel:
+- 1
+- 3A/B
+- 12
+- 22
+- 30, 33
+- 41
+- 70, 73
+Nutze die Ausstiege Campus Melaten (Physikzentrum) oder Rabentalweg
+
+## Agenda am Abend
+
+<a id="agenda-am-abend"></a>
 
 **Ab 19:00** <br>
 **Chico Mendes, Pontstraße 74-76, 52062 Aachen** <br>
 <img src="asset/images/chicomendes_logo.jpg" alt="Chico Mendes Logo" style="max-height:120px; width:auto;"> <br>
-**Dresscode: Wie du dich am wohlsten fühlst** <br>
 
 
 <div class="map-container">
@@ -141,7 +152,7 @@ Du kommmst mit dem Auto? Dann kannst du an folgenden Orten parken:
 
 #### Programm
 
-Abends steigt im Chico Mendes die Feier, egal welches Ergebnis die Prüfung hervorbringt. Es gibt Getränke, Essen und Musik, wahlweise von Spotify oder in einem anderen Raum auch Live als Karaoke von den Gästen selbst performt.
+Abends feiern wir im Chico Mendes – unabhängig davon, welches Ergebnis die Prüfung hervorbringt. Es gibt Getränke, Essen und Musik, wahlweise von Spotify oder in einem anderen Raum auch live als Karaoke von den Gästen selbst performt.
 
 Das Catering bei der Feier wird angeliefert durch:
 
@@ -149,9 +160,9 @@ Das Catering bei der Feier wird angeliefert durch:
 
 <a id="abends-parken"></a>
 
-#### Abends Parken
+#### Parken am Abend
 
-Du willst abends noch nach Hause fahren? Na gut, deine Enscheidung. Hier kannst du parken:
+Du kommst auch abends mit dem Auto? Hier kannst du parken:
 
 - Parkplatz: Pontdriesch 8B, 52062 Aachen (3 Minuten zu Fuß entfernt)
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1496.2612911743117!2d6.081154809262487!3d50.779554774581975!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c0993f0fc03cff%3A0x957a97a64456e894!2sParkplatz!5e1!3m2!1sde!2sde!4v1781083642801!5m2!1sde!2sde" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
