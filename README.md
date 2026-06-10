@@ -81,45 +81,31 @@ Du möchtest genau wissen, was dich erwartet? Dann gibt es den ganzen Tag für d
 
 **Ab 08:30**
 **Raum 368, Gebäudeteil 3A, Campus-Boulevard 30, 52074 Aachen**
+**Dresscode: Casual chic oder darüber**
 
 <div class="map-container">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d503.40530749943554!2d6.047269020567512!3d50.782509968681225!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c099001374187f%3A0x70054db52052198d!2sEingangshalle%20des%20Clusters%20Produktionstechnik!5e1!3m2!1sde!2sde!4v1779087029259!5m2!1sde!2sde" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
-#### Kurze Übersicht
-
-- 08:30 – 09:00 | Raum 368, Gebäudeteil 3A, Campus-Boulevard 30, 52074 Aachen | Ankommen
-- 09:00 – 10:00 | Raum 368, Gebäudeteil 3A, Campus-Boulevard 30, 52074 Aachen | Promotionsvortrag: Dialog der KI-Agenten
-- 10:00 – ca. 11:00 | Prüfung nicht öffentlich; Führung durch WZL-Räumlichkeiten | Prüfung für Tobias / Führung für Gäste
-- ca. 11:00 – 12:00 | Raum 368, Gebäudeteil 3A, Campus-Boulevard 30, 52074 Aachen | Bekanntgabe der Ergebnisse, Laudatio und Snacks
-
-#### Karte
-
 
 
 #### Programm
 
-##### 08:30 – 09:00
+##### 08:30 – 09:00: Ankommen
 
 Wenn du von Anfang an dabei sein möchtest, finde dich rechtzeitig zum Vortrag im Produktionscluster, Gebäudeteil 3A, Raum 368 im dritten Stock ein.
 
-##### 09:00 – 10:00
+##### 09:00 – 10:00: Promotionsvortrag: Dialog der KI-Agenten
 
 Der Promotionsvortrag, der sich um ein anderes Thema als meine Dissertation dreht. Das Thema lautet: "Dialog der KI-Agenten - Wie Large Language Modelle gemeinsam Entscheidungen treffen". Der Vortrag findet im Produktionscluster, Gebäudeteil 3A, Raum 368 statt.
 <strong>Wichtig: Applaus am Ende des Vortrags ist erlaubt, sollte aber nicht in Jubel, Stampfen oder Pfeiffen ausarten!</strong>
-<br>
-Dresscode: Casual chic oder darüber
 
-##### 10:00 – ca. 11:00
+##### 10:00 – ca. 11:00: Prüfung für Tobias / Führung für Gäste
 
 Dieser Teil der Prüfung ist nicht öffentlich. Wenn du nicht Teil des WZL-Teams bist, bekommst du eine Führung durch unsere Räumlichkeiten und bei Bedarf Kaffee aus unserer Siebträgermaschine.
-<br>
-Dresscode: Casual chic oder darüber
 
-##### ca. 11:00 – 12:00
+##### ca. 11:00 – 12:00: Bekanntgabe der Ergebnisse, Laudatio und Snacks
 
 Nachdem die Prüfung abgeschlossen ist, finden wir uns alle wieder in Raum 368 ein. Dort gibt es dann die Verkündung des Ergebnisses. Anschließend werden Reden gehalten und Snacks konsumiert. Danach endet dieser Veranstaltungsteil. Wer Lust hat, kann später zur Promotionsfeier kommen.
-<br>
-Dresscode: Casual chic oder darüber
 
 #### Parken
 
@@ -135,11 +121,9 @@ Du kommmst mit dem Auto? Dann kannst du an folgenden Orten parken:
 
 <a id="abends"></a>
 
-#### Kurze Übersicht
-
-- ab 19:00 | Chico Mendes, Pontstraße 74-76, 52062 Aachen | Promotionsfeier
-
-#### Karte
+**Ab 19:00**
+**Chico Mendes, Pontstraße 74-76, 52062 Aachen**
+**Dresscode: Wie du dich am wohlsten fühlst**
 
 <div class="map-container">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2516.456638958751!2d6.081767659246365!3d50.77853032071287!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c0997a531baf97%3A0x646d33c25bb77f07!2sChico%20Mendes%20-%20Katholische%20Hochschulgemeinde%20Aachen!5e1!3m2!1sde!2sde!4v1781082064463!5m2!1sde!2sde" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -148,8 +132,7 @@ Du kommmst mit dem Auto? Dann kannst du an folgenden Orten parken:
 #### Programm
 
 Abends steigt im Chico Mendes die Feier, egal, welches Ergebnis die Prüfung hervorbringt. Es gibt Getränke, Essen und Musik, wahlweise von Spotify oder in einem anderen Raum auch Live als Karaoke von den Gästen selbst performt.
-<br>
-Dresscode: Wie du dich am wohlsten fühlst
+
 
 #### Parken
 
