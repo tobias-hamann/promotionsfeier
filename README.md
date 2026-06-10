@@ -77,11 +77,11 @@ Du kannst es kaum Abwarten? Melde dich hier an!
 ## Agenda
 Du möchtest genau wissen, was dich erwartet? Dann gibt es den ganzen Tag für dich hier zusammengefasst inklusive Beschreibungen, wo du hin musst!
 
-### Morgens
+## Morgens
 
-**Ab 08:30**
-**Raum 368, Gebäudeteil 3A, Campus-Boulevard 30, 52074 Aachen**
-**Dresscode: Casual chic oder darüber**
+**Ab 08:30** <br>
+**Raum 368, Gebäudeteil 3A, Campus-Boulevard 30, 52074 Aachen** <br>
+**Dresscode: Casual chic oder darüber** <br>
 
 <div class="map-container">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d503.40530749943554!2d6.047269020567512!3d50.782509968681225!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c099001374187f%3A0x70054db52052198d!2sEingangshalle%20des%20Clusters%20Produktionstechnik!5e1!3m2!1sde!2sde!4v1779087029259!5m2!1sde!2sde" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -107,7 +107,7 @@ Dieser Teil der Prüfung ist nicht öffentlich. Wenn du nicht Teil des WZL-Teams
 
 Nachdem die Prüfung abgeschlossen ist, finden wir uns alle wieder in Raum 368 ein. Dort gibt es dann die Verkündung des Ergebnisses. Anschließend werden Reden gehalten und Snacks konsumiert. Danach endet dieser Veranstaltungsteil. Wer Lust hat, kann später zur Promotionsfeier kommen.
 
-#### Parken
+#### Morgens Parken
 
 Du kommmst mit dem Auto? Dann kannst du an folgenden Orten parken:
 
@@ -121,9 +121,9 @@ Du kommmst mit dem Auto? Dann kannst du an folgenden Orten parken:
 
 <a id="abends"></a>
 
-**Ab 19:00**
-**Chico Mendes, Pontstraße 74-76, 52062 Aachen**
-**Dresscode: Wie du dich am wohlsten fühlst**
+**Ab 19:00** <br>
+**Chico Mendes, Pontstraße 74-76, 52062 Aachen** <br>
+**Dresscode: Wie du dich am wohlsten fühlst** <br>
 
 <div class="map-container">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2516.456638958751!2d6.081767659246365!3d50.77853032071287!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c0997a531baf97%3A0x646d33c25bb77f07!2sChico%20Mendes%20-%20Katholische%20Hochschulgemeinde%20Aachen!5e1!3m2!1sde!2sde!4v1781082064463!5m2!1sde!2sde" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -134,11 +134,11 @@ Du kommmst mit dem Auto? Dann kannst du an folgenden Orten parken:
 Abends steigt im Chico Mendes die Feier, egal, welches Ergebnis die Prüfung hervorbringt. Es gibt Getränke, Essen und Musik, wahlweise von Spotify oder in einem anderen Raum auch Live als Karaoke von den Gästen selbst performt.
 
 
-#### Parken
+#### Abends Parken
 
 *Wird ergänzt sobald die Location für das Abendevent steht.*
 
-### Hotels in Aachen
+## Hotels in Aachen
 
 Der Abend soll länger werden? Hier findest du Betten, in die du dich morgens um 4 Uhr fallen lassen kannst:
 
