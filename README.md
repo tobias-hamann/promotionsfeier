@@ -1,3 +1,5 @@
+# Tobias' Promotiosfeier
+
 Wenn du an Tobias' Promotionsfeier, seinem Vortrag oder beidem Teilnehmen möchtest, ist das die richtige Seite für dich!
 
 Auf dieser Website findest du
@@ -24,35 +26,32 @@ Auf dieser Website findest du
       <tr>
         <td>08:30 – 09:00</td>
         <td>Ankommen</td>
-        <td>Produktionscluster, 
-Gebäudeteil 3A, Raum 368</td>
+        <td>Raum 368, Gebäudeteil 3A, Campus-Boulevard 30, 52074 Aachen</td>
       </tr>
       <tr>
         <td>09:00 – 10:00</td>
         <td>Promotionsvortrag: Dialog der KI-Agenten</td>
-        <td>Produktionscluster, 
-Gebäudeteil 3A, Raum 368</td>
+        <td>Raum 368, Gebäudeteil 3A, Campus-Boulevard 30, 52074 Aachen</td>
       </tr>
       <tr>
         <td>10:00 – ca. 11:00</td>
-        <td>Rigorosum / Führung für Gäste</td>
+        <td>Prüfung für Tobias / Führung für Gäste</td>
         <td>Prüfung nicht öffentlich; Führung durch WZL-Räumlichkeiten</td>
       </tr>
       <tr>
         <td>ca. 11:00 – 12:00</td>
         <td>Bekanntgabe der Ergebnisse, Laudatio und Snacks</td>
-        <td>Produktionscluster, 
-Gebäudeteil 3A, Raum 368</td>
+        <td>Raum 368, Gebäudeteil 3A, Campus-Boulevard 30, 52074 Aachen</td>
       </tr>
       <tr>
-        <td>12:00 - ??:00</td>
+        <td>12:00 - 19:00</td>
         <td>Freizeit, um sich die Stadt anzusehen oder sich für den Abend schick zu machen</td>
-        <td>???</td>
+        <td>Jeder für sich, wo man mag</td>
       </tr>
       <tr>
-        <td>ab ??:00</td>
+        <td>ab 19:00</td>
         <td>Promotionsfeier</td>
-        <td>???</td>
+        <td>Chico Mendes, Pontstraße 74-76, 52062 Aachen</td>
       </tr>
     </tbody>
   </table>
@@ -70,7 +69,7 @@ Du kannst es kaum Abwarten? Melde dich hier an!
 
 ## Agenda
 
-Du möchtest wissen, was dich erwartet? Dann gibt es den ganzen Tag für dich hier zusammengefasst inklusive Beschreibungen, wo du hin musst!
+Du möchtest genau wissen, was dich erwartet? Dann gibt es den ganzen Tag für dich hier zusammengefasst inklusive Beschreibungen, wo du hin musst!
 
 Klicke hierzu einfach die einzelnen Programmpunkte auf.
 
@@ -117,7 +116,7 @@ Klicke hierzu einfach die einzelnen Programmpunkte auf.
     <details class="agenda-item">
       <summary>
         <span class="agenda-time">10:00 – ca. 11:00</span>
-        <span class="agenda-title">Rigorosum</span>
+        <span class="agenda-title">Prüfung</span>
       </summary>
 
       <div class="agenda-details">
@@ -138,7 +137,7 @@ Klicke hierzu einfach die einzelnen Programmpunkte auf.
 
       <div class="agenda-details">
         <p>
-          Nachdem das Rigorosum abgeschlossen ist, finden wir uns alle wieder in Raum 368 ein. Dort gibt es dann die Verkündung des Ergebnisses. Anschließend werden Reden gehalten und Snacks konsumiert. Danach endet dieser Veranstaltungsteil. Wer Lust hat, kann  später zur Promotionsfeier kommen.
+          Nachdem die Prüfung abgeschlossen ist, finden wir uns alle wieder in Raum 368 ein. Dort gibt es dann die Verkündung des Ergebnisses. Anschließend werden Reden gehalten und Snacks konsumiert. Danach endet dieser Veranstaltungsteil. Wer Lust hat, kann später zur Promotionsfeier kommen.
           <br>
           Dresscode: Casual chic oder darüber
         </p>
@@ -149,20 +148,19 @@ Klicke hierzu einfach die einzelnen Programmpunkte auf.
 
     <details class="agenda-item">
       <summary>
-        <span class="agenda-time">Ab ??:00</span>
+        <span class="agenda-time">Ab 19:00</span>
         <span class="agenda-title">Promotionsfeier im ???</span>
       </summary>
 
       <div class="agenda-details">
         <p>
-          Evening event at the venue. This section may include information on the meeting
-          point, schedule, dinner arrangements or social activities.
+          Abends steigt im Chico Mendes die Feier, egal, welches Ergebnis die Prüfung hervorbringt. Es gibt Getränke, Essen und Musik, wahlweise von Spotify oder in einem anderen Raum auch Live als Karaoke von den Gästen selbst performt.
           <br>
           Dresscode: Wie du dich am wohlsten fühlst
         </p>
 
         <div class="map-container">
-          <!-- Hier iframe einfügen -->
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2516.456638958751!2d6.081767659246365!3d50.77853032071287!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c0997a531baf97%3A0x646d33c25bb77f07!2sChico%20Mendes%20-%20Katholische%20Hochschulgemeinde%20Aachen!5e1!3m2!1sde!2sde!4v1781082064463!5m2!1sde!2sde" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
       </div>
     </details>
