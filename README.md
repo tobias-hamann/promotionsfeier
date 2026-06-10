@@ -27,25 +27,22 @@ Auf dieser Website findest du
     </thead>
     <tbody>
       <tr>
-        <td><a href="#agenda-morgens">Morgens</a></td>
+        <td rowspan="4"><a href="#agenda-morgens">Morgens</a></td>
         <td>08:30 – 09:00</td>
         <td>Ankommen</td>
         <td>Raum 368, Gebäudeteil 3A, Campus-Boulevard 30, 52074 Aachen</td>
       </tr>
       <tr>
-        <td></td>
         <td>09:00 – 10:00</td>
         <td>Promotionsvortrag: Dialog der KI-Agenten</td>
         <td>Raum 368, Gebäudeteil 3A, Campus-Boulevard 30, 52074 Aachen</td>
       </tr>
       <tr>
-        <td></td>
         <td>10:00 – ca. 11:00</td>
         <td>Prüfung für Tobias / Führung für Gäste</td>
         <td>Prüfung nicht öffentlich; Führung durch WZL-Räumlichkeiten</td>
       </tr>
       <tr>
-        <td></td>
         <td>ca. 11:00 – 12:00</td>
         <td>Bekanntgabe der Ergebnisse, Laudatio und Snacks</td>
         <td>Raum 368, Gebäudeteil 3A, Campus-Boulevard 30, 52074 Aachen</td>
@@ -99,12 +96,13 @@ Du möchtest genau wissen, was dich erwartet? Dann gibt es den ganzen Tag für d
 ##### <span style="font-size:1.1em;">08:30 – 09:00: Ankommen</span>
 
 Wenn du von Anfang an dabei sein möchtest, finde dich rechtzeitig zum Vortrag im Produktionscluster, Gebäudeteil 3A, Raum 368 im dritten Stock ein.
+<br>
 <strong>Wichtig: Wenn du zu spät bist und der Vortrag schon begonnen hat, solltest du den Raum nicht mehr betreten, sondern warten, bis der Vortrag vorbei ist.</strong>
 
 ##### <span style="font-size:1.1em;">09:00 – 10:00: Promotionsvortrag: Dialog der KI-Agenten</span>
 
 Der Promotionsvortrag, der sich um ein anderes Thema als meine Dissertation dreht. Das Thema lautet: "Dialog der KI-Agenten - Wie Large Language Modelle gemeinsam Entscheidungen treffen". Der Vortrag findet im Produktionscluster, Gebäudeteil 3A, Raum 368 statt.
-<strong>Wichtig: Applaus am Ende des Vortrags ist erlaubt, sollte aber nicht in Jubel, Stampfen oder Pfeiffen ausarten!</strong>
+<strong>Wichtig: Applaus am Ende des Vortrags ist erlaubt, sollte aber nicht in Jubel, Stampfen oder Pfeiffen ausarten.</strong>
 
 ##### <span style="font-size:1.1em;">10:00 – ca. 11:00: Prüfung für Tobias / Führung für Gäste</span>
 
