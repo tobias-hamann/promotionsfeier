@@ -5,8 +5,8 @@ Wenn du an Tobias' Promotionsfeier, seinem Vortrag oder beidem Teilnehmen möcht
 Auf dieser Website findest du
 - [Kurzinformationen zum Event](#kurzinformationen)
 - [Die Registrierung](#registrierung)
-- [Morgens](#morgens)
-- [Abends](#abends)
+- [Agenda Morgens](#agenda-morgens)
+- [Agenda Abends](#agenda-abends)
 - [Hotels in Aachen](#hotels-in-aachen)
 
 
@@ -27,7 +27,7 @@ Auf dieser Website findest du
     </thead>
     <tbody>
       <tr>
-        <td>[Morgens](#morgens)</td>
+        <td><a href="#agenda-morgens">Morgens</a></td>
         <td>08:30 – 09:00</td>
         <td>Ankommen</td>
         <td>Raum 368, Gebäudeteil 3A, Campus-Boulevard 30, 52074 Aachen</td>
@@ -57,7 +57,7 @@ Auf dieser Website findest du
         <td>Jeder für sich, wo man mag</td>
       </tr>
       <tr>
-        <td>[Abends](#abends)</td>
+        <td><a href="#agenda-abends">Abends</a></td>
         <td>ab 19:00</td>
         <td>Promotionsfeier</td>
         <td>Chico Mendes, Pontstraße 74-76, 52062 Aachen</td>
@@ -81,9 +81,9 @@ Du kannst es kaum Abwarten? Melde dich hier an!
 ## Agenda
 Du möchtest genau wissen, was dich erwartet? Dann gibt es den ganzen Tag für dich hier zusammengefasst inklusive Beschreibungen, wo du hin musst!
 
-<a id="morgens"></a>
+<a id="agenda-morgens"></a>
 
-## Morgens
+## Agenda Morgens
 
 **Ab 08:30** <br>
 **Raum 368, Gebäudeteil 3A, Campus-Boulevard 30, 52074 Aachen** <br>
@@ -96,21 +96,21 @@ Du möchtest genau wissen, was dich erwartet? Dann gibt es den ganzen Tag für d
 
 #### Programm
 
-##### 08:30 – 09:00: Ankommen
+##### <span style="font-size:1.1em;">08:30 – 09:00: Ankommen</span>
 
 Wenn du von Anfang an dabei sein möchtest, finde dich rechtzeitig zum Vortrag im Produktionscluster, Gebäudeteil 3A, Raum 368 im dritten Stock ein.
 <strong>Wichtig: Wenn du zu spät bist und der Vortrag schon begonnen hat, solltest du den Raum nicht mehr betreten, sondern warten, bis der Vortrag vorbei ist.</strong>
 
-##### 09:00 – 10:00: Promotionsvortrag: Dialog der KI-Agenten
+##### <span style="font-size:1.1em;">09:00 – 10:00: Promotionsvortrag: Dialog der KI-Agenten</span>
 
 Der Promotionsvortrag, der sich um ein anderes Thema als meine Dissertation dreht. Das Thema lautet: "Dialog der KI-Agenten - Wie Large Language Modelle gemeinsam Entscheidungen treffen". Der Vortrag findet im Produktionscluster, Gebäudeteil 3A, Raum 368 statt.
 <strong>Wichtig: Applaus am Ende des Vortrags ist erlaubt, sollte aber nicht in Jubel, Stampfen oder Pfeiffen ausarten!</strong>
 
-##### 10:00 – ca. 11:00: Prüfung für Tobias / Führung für Gäste
+##### <span style="font-size:1.1em;">10:00 – ca. 11:00: Prüfung für Tobias / Führung für Gäste</span>
 
 Dieser Teil der Prüfung ist nicht öffentlich. Wenn du nicht Teil des WZL-Teams bist, bekommst du eine Führung durch unsere Räumlichkeiten und bei Bedarf Kaffee aus unserer Siebträgermaschine.
 
-##### ca. 11:00 – 12:00: Bekanntgabe der Ergebnisse, Laudatio und Snacks
+##### <span style="font-size:1.1em;">ca. 11:00 – 12:00: Bekanntgabe der Ergebnisse, Laudatio und Snacks</span>
 
 Nachdem die Prüfung abgeschlossen ist, finden wir uns alle wieder in Raum 368 ein. Dort gibt es dann die Verkündung des Ergebnisses. Anschließend werden Reden gehalten und Snacks konsumiert. Danach endet dieser Veranstaltungsteil. Wer Lust hat, kann später zur Promotionsfeier kommen.
 
@@ -130,9 +130,9 @@ Du kommmst mit dem Auto? Dann kannst du an folgenden Orten parken:
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d846.6197512003088!2d6.047365710700912!3d50.7827135321164!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sde!2sde!4v1778228627819!5m2!1sde!2sde" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-## Abends
+## Agenda Abends
 
-<a id="abends"></a>
+<a id="agenda-abends"></a>
 
 **Ab 19:00** <br>
 **Chico Mendes, Pontstraße 74-76, 52062 Aachen** <br>
