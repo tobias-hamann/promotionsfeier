@@ -133,7 +133,9 @@ Du kommmst mit dem Auto? Dann kannst du an folgenden Orten parken:
 
 **Ab 19:00** <br>
 **Chico Mendes, Pontstraße 74-76, 52062 Aachen** <br>
+<img src="asset/images/chicomendes_logo.jpg" alt="Chico Mendes Logo" style="max-height:120px; width:auto;"> <br>
 **Dresscode: Wie du dich am wohlsten fühlst** <br>
+
 
 <div class="map-container">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2516.456638958751!2d6.081767659246365!3d50.77853032071287!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c0997a531baf97%3A0x646d33c25bb77f07!2sChico%20Mendes%20-%20Katholische%20Hochschulgemeinde%20Aachen!5e1!3m2!1sde!2sde!4v1781082064463!5m2!1sde!2sde" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -143,6 +145,9 @@ Du kommmst mit dem Auto? Dann kannst du an folgenden Orten parken:
 
 Abends steigt im Chico Mendes die Feier, egal welches Ergebnis die Prüfung hervorbringt. Es gibt Getränke, Essen und Musik, wahlweise von Spotify oder in einem anderen Raum auch Live als Karaoke von den Gästen selbst performt.
 
+Das Catering wird gestellt durch:
+
+<img src="asset/images/werden_logo.png" alt="Werden Logo" style="max-height:120px; width:auto;">
 
 <a id="abends-parken"></a>
 
