@@ -136,6 +136,8 @@ Abends steigt im Chico Mendes die Feier, egal welches Ergebnis die Prüfung herv
 
 #### Abends Parken
 
+Du willst abends noch nach Hause fahren? Na gut, deine Enscheidung. Hier kannst du parken:
+
 - Parkplatz: Pontdriesch 8B, 52062 Aachen (3 Minuten zu Fuß entfernt)
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1496.2612911743117!2d6.081154809262487!3d50.779554774581975!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c0993f0fc03cff%3A0x957a97a64456e894!2sParkplatz!5e1!3m2!1sde!2sde!4v1781083642801!5m2!1sde!2sde" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
@@ -148,6 +150,10 @@ Abends steigt im Chico Mendes die Feier, egal welches Ergebnis die Prüfung herv
 
 ## Hotels in Aachen
 
-Der Abend soll länger werden? Hier findest du Betten, in die du dich morgens um 4 Uhr fallen lassen kannst:
+Der Abend soll länger werden? Hier findest du Betten, in die du dich nachts fallen lassen kannst:
 
-*Wird ergänzt sobald die Location für das Abendevent steht.*
+- [Hotel 3 Könige](http://www.h3k-aachen.de/?utm_source=gmb): Büchel 5, 52062 Aachen (5 Minuten zu Fuß entfernt)
+- [B&B HOTEL Aachen-City](https://www.hotel-bb.com/de/hotel/aachen-city?utm_source=gmb&utm_medium=referral&utm_content=aachen&utm_campaign=yext): Grosskölnstraße 59, 52062 Aachen (7 Minuten zu Fuß entfernt)
+- [Minx - CityHotels](http://www.minx-hotels.de/): Seilgraben 2, 52062 Aachen (7 Minuten zu Fuß entfernt)
+- [INNSiDE Aachen](https://www.melia.com/de/hotels/deutschland/aachen/innside-aachen?utm_campaign=google&utm_content=6591&utm_medium=organic&utm_source=directories): Sandkaulstraße 20, 52062 Aachen (9 Minuten zu Fuß entfernt)
+- [Motel One Aachen](https://www.motel-one.com/hotels/aachen/hotel-aachen/): Kapuzinergraben 6-10, 52062 Aachen (10 Minuten zu Fuß entfernt)
