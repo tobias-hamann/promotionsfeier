@@ -7,7 +7,6 @@ Auf dieser Website findest du
 - [Die Registrierung](#registrierung)
 - [Morgens](#morgens)
 - [Abends](#abends)
-- [Parkplätze](#morgens-parken)
 - [Hotels in Aachen](#hotels-in-aachen)
 
 
@@ -28,7 +27,7 @@ Auf dieser Website findest du
     </thead>
     <tbody>
       <tr>
-        <td><a id="morgens">Morgens</a></td>
+        <td>[Morgens](#morgens)</td>
         <td>08:30 – 09:00</td>
         <td>Ankommen</td>
         <td>Raum 368, Gebäudeteil 3A, Campus-Boulevard 30, 52074 Aachen</td>
@@ -58,7 +57,7 @@ Auf dieser Website findest du
         <td>Jeder für sich, wo man mag</td>
       </tr>
       <tr>
-        <td><a id="abends">Abends</a></td>
+        <td>[Abends](#abends)</td>
         <td>ab 19:00</td>
         <td>Promotionsfeier</td>
         <td>Chico Mendes, Pontstraße 74-76, 52062 Aachen</td>
