@@ -154,7 +154,7 @@ Nutze die Ausstiege Campus Melaten (Physikzentrum) oder Rabentalweg
 
 Abends feiern wir im Chico Mendes – unabhängig davon, welches Ergebnis die Prüfung hervorbringt. Es gibt Getränke, Essen und Musik, wahlweise von Spotify oder in einem anderen Raum auch live als Karaoke von den Gästen selbst performt.
 
-Das Catering bei der Feier wird angeliefert durch:
+Das Catering bei der Feier kommt von:
 
 <img src="asset/images/werden_logo.png" alt="Werden Logo" style="max-height:120px; width:auto;">
 
@@ -164,16 +164,13 @@ Das Catering bei der Feier wird angeliefert durch:
 
 Du kommst auch abends mit dem Auto? Hier kannst du parken:
 
-- Parkplatz: Pontdriesch 8B, 52062 Aachen (3 Minuten zu Fuß entfernt)
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1496.2612911743117!2d6.081154809262487!3d50.779554774581975!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c0993f0fc03cff%3A0x957a97a64456e894!2sParkplatz!5e1!3m2!1sde!2sde!4v1781083642801!5m2!1sde!2sde" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+- CONTIPARK Parkhaus Grosskölnstraße: Seilgraben 45, 52062 Aachen (5 Minuten zu Fuß entfernt)
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d748.1539088190214!2d6.082713969680075!3d50.77810064624323!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x47c0997b29a9289b%3A0xeb479ea600a8177f!2sCONTIPARK%20Parkhaus%20Grossk%C3%B6lnstra%C3%9Fe%2C%20Seilgraben%2045%2C%2052062%20Aachen!3m2!1d50.778115!2d6.084988!4m5!1s0x47c0997a531baf97%3A0x646d33c25bb77f07!2sChico%20Mendes%20-%20Katholische%20Hochschulgemeinde%20Aachen%2C%20Pontstra%C3%9Fe%2074-76%2C%2052062%20Aachen!3m2!1d50.7784974!2d6.0818752!5e1!3m2!1sde!2sde!4v1781107223438!5m2!1sde!2sde" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 <br>
-- CONTIPARK Parkhaus Grosskölnstraße: Seilgraben 45, 52062 Aachen (4 Minuten zu Fuß entfernt)
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1779.4175828740026!2d6.081249153222744!3d50.778161621738704!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c0997b29a9289b%3A0xeb479ea600a8177f!2sCONTIPARK%20Parkhaus%20Grossk%C3%B6lnstra%C3%9Fe!5e1!3m2!1sde!2sde!4v1781083667807!5m2!1sde!2sde" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<br>
-<br>
-- APAG Parkhaus Couvenstraße: Couvenstraße 6, 52062 Aachen (9 Minuten zu Fuß entfernt)
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5033.11198988152!2d6.079561278952111!3d50.77668389530234!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c099645abd14f1%3A0x6620362becd0efde!2sAPAG%20Parkhaus%20Couvenstra%C3%9Fe!5e1!3m2!1sde!2sde!4v1781083752070!5m2!1sde!2sde" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+- APAG Parkhaus Couvenstraße: Couvenstraße 6, 52062 Aachen (10 Minuten zu Fuß entfernt)
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d2992.6212622130074!2d6.082804476844555!3d50.77801271372425!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x47c099645abd14f1%3A0x6620362becd0efde!2sAPAG%20Parkhaus%20Couvenstra%C3%9Fe%2C%20Couvenstra%C3%9Fe%206%2C%2052062%20Aachen!3m2!1d50.7773356!2d6.0896617!4m5!1s0x47c0997a531baf97%3A0x646d33c25bb77f07!2sChico%20Mendes%20-%20Katholische%20Hochschulgemeinde%20Aachen%2C%20Pontstra%C3%9Fe%2074-76%2C%2052062%20Aachen!3m2!1d50.7784974!2d6.0818752!5e1!3m2!1sde!2sde!4v1781107268447!5m2!1sde!2sde" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
 <a id="hotels-in-aachen"></a>
