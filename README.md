@@ -114,6 +114,10 @@ Dieser Teil der Prüfung ist nicht öffentlich. Wenn du nicht Teil des WZL-Teams
 
 Nachdem die Prüfung abgeschlossen ist, finden wir uns alle wieder in Raum 368 ein. Dort gibt es dann die Verkündung des Ergebnisses. Anschließend werden Reden gehalten und Snacks konsumiert. Danach endet dieser Veranstaltungsteil. Wer Lust hat, kann später zur Promotionsfeier kommen.
 
+Das Catering bei der Laudatio  wird angeliefert durch:
+
+<img src="asset/images/werden_logo.png" alt="Werden Logo" style="max-height:120px; width:auto;">
+
 <a id="morgens-parken"></a>
 
 #### Morgens Parken
@@ -144,7 +148,7 @@ Du kommmst mit dem Auto? Dann kannst du an folgenden Orten parken:
 
 Abends steigt im Chico Mendes die Feier, egal welches Ergebnis die Prüfung hervorbringt. Es gibt Getränke, Essen und Musik, wahlweise von Spotify oder in einem anderen Raum auch Live als Karaoke von den Gästen selbst performt.
 
-Das Catering wird gestellt durch:
+Das Catering bei der Feier wird angeliefert durch:
 
 <img src="asset/images/werden_logo.png" alt="Werden Logo" style="max-height:120px; width:auto;">
 
