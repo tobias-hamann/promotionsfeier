@@ -30,22 +30,19 @@ Auf dieser Website findest du
         <td rowspan="4"><a href="#agenda-morgens">Morgens</a></td>
         <td>08:30 – 09:00</td>
         <td>Ankommen</td>
-        <td>Raum 368, Gebäudeteil 3A, Campus-Boulevard 30, 52074 Aachen</td>
+        <td rowspan="4">Raum 368, Gebäudeteil 3A, Campus-Boulevard 30, 52074 Aachen</td>
       </tr>
       <tr>
         <td>09:00 – 10:00</td>
         <td>Promotionsvortrag: Dialog der KI-Agenten</td>
-        <td>Raum 368, Gebäudeteil 3A, Campus-Boulevard 30, 52074 Aachen</td>
       </tr>
       <tr>
         <td>10:00 – ca. 11:00</td>
         <td>Prüfung für Tobias / Führung für Gäste</td>
-        <td>Prüfung nicht öffentlich; Führung durch WZL-Räumlichkeiten</td>
       </tr>
       <tr>
         <td>ca. 11:00 – 12:00</td>
         <td>Bekanntgabe der Ergebnisse, Laudatio und Snacks</td>
-        <td>Raum 368, Gebäudeteil 3A, Campus-Boulevard 30, 52074 Aachen</td>
       </tr>
       <tr>
         <td>Dazwischen</td>
