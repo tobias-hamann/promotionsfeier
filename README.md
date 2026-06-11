@@ -1,6 +1,6 @@
 # Tobias’ Promotionsfeier
 
-Wenn du an Tobias’ Promotionsfeier, seinem Vortrag oder beidem teilnehmen möchtest, ist das die richtige Seite für dich!
+Wenn du am **Freitag, dem 25.09.2026 an Tobias’ Promotionsfeier in Aachen**, seinem Vortrag oder beidem teilnehmen möchtest, ist das die richtige Seite für dich!
 
 Auf dieser Website findest du
 - [Kurzinformationen zum Event](#kurzinformationen)
